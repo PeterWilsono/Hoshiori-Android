@@ -60,6 +60,17 @@ Hoshiori AI 是一款创新的 AI 情感陪伴应用，采用先进的心理学�
 
 ---
 
+### 📦 下载安装
+
+不想编译？直接下载安装包体验：
+
+- **[Hoshiori-v1.2.0-debug.apk](https://github.com/PeterWilsono/HoshioriAndroid/releases/download/v1.2.0/Hoshiori-v1.2.0-debug.apk)**（约 20.5 MB，Android 8.0 及以上）
+- 更多版本请查看 [Releases 页面](https://github.com/PeterWilsono/HoshioriAndroid/releases)
+
+安装时如系统提示，请允许「安装未知来源应用」；首次打开后在「设置」中填写你的 AI API Key 即可使用。
+
+---
+
 ### 🚀 快速开始
 
 #### 环境要求
@@ -74,8 +85,8 @@ Hoshiori AI 是一款创新的 AI 情感陪伴应用，采用先进的心理学�
 
 1. **克隆项目**
    ```bash
-   git clone https://github.com/yourusername/hoshiori-ai.git
-   cd hoshiori-ai
+   git clone https://github.com/PeterWilsono/HoshioriAndroid.git
+   cd HoshioriAndroid
    ```
 
 2. **打开项目**
@@ -228,8 +239,8 @@ HoshioriAndroid/
 
 ### 📞 联系方式
 
-- **项目主页**: https://github.com/yourusername/hoshiori-ai
-- **问题反馈**: https://github.com/yourusername/hoshiori-ai/issues
+- **项目主页**: https://github.com/PeterWilsono/HoshioriAndroid
+- **问题反馈**: https://github.com/PeterWilsono/HoshioriAndroid/issues
 
 ---
 
@@ -253,7 +264,7 @@ Hoshiori AI is an innovative AI emotional companion application that employs adv
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/hoshiori-ai.git
+   git clone https://github.com/PeterWilsono/HoshioriAndroid.git
    ```
 
 2. Open in Android Studio and wait for Gradle sync
