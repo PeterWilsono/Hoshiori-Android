@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">星织AI</string>
+    <string name="default_character_name">星织</string>
+    <string name="hint_message">输入消息...</string>
+    <string name="send">发送</string>
+    <string name="settings">设置</string>
+    <string name="new_chat">新建对话</string>
+    <string name="edit_character">编辑角色</string>
+    <string name="delete_character">删除角色</string>
+    <string name="api_settings">API设置</string>
+    <string name="general_settings">通用设置</string>
+    <string name="about">关于</string>
+    <string name="save">保存</string>
+    <string name="cancel">取消</string>
+    <string name="confirm">确认</string>
+    <string name="delete_confirm">确定要删除这个角色吗？</string>
+    <string name="character_name">角色名称</string>
+    <string name="character_prompt">角色设定</string>
+    <string name="api_key">API Key</string>
+    <string name="api_endpoint">API Endpoint</string>
+    <string name="model_name">模型名称</string>
+    <string name="sticker_frequency">表情包频率</string>
+    <string name="proactive_message">主动消息</string>
+    <string name="notification_settings">通知设置</string>
+    <string name="theme_settings">主题设置</string>
+    <string name="typing_indicator">%1$s正在输入...</string>
+    <string name="error_api_failed">抱歉，我好像遇到了一点问题...%1$s</string>
+    <string name="click_to_chat">点击开始聊天~</string>
+    <string name="percentage_format">%1$d%%</string>
+    <string name="settings_saved">设置已保存</string>
+    <string name="click_change_avatar">点击更换头像</string>
+    <string name="reset_default">恢复默认</string>
+    <string name="online_status">在线</string>
+    <string name="copied">已复制</string>
+    
+    <!-- 删除功能相关 -->
+    <string name="delete_message">删除消息</string>
+    <string name="delete_message_confirm">确定要删除这条消息吗？</string>
+    <string name="clear_chat_history">清空聊天记录</string>
+    <string name="clear_chat_confirm">确定要清空所有聊天记录吗？\n此操作不可恢复。</string>
+    <string name="delete">删除</string>
+    <string name="message_deleted">消息已删除</string>
+    <string name="chat_cleared">聊天记录已清空</string>
+    
+    <!-- 复制功能相关 -->
+    <string name="copy_message">复制消息</string>
+    <string name="message_copied">消息已复制</string>
+    
+    <!-- 聊天背景主题相关 -->
+    <string name="chat_theme">聊天主题</string>
+    <string name="select_theme">选择主题</string>
+    <string name="theme_default">默认渐变</string>
+    <string name="theme_starry_night">星空</string>
+    <string name="theme_sakura">樱花</string>
+    <string name="theme_ocean">海洋</string>
+    <string name="theme_sunset">日落</string>
+    <string name="theme_custom">自定义</string>
+    <string name="upload_background">上传背景图</string>
+    <string name="background_opacity">背景透明度</string>
+    <string name="bubble_opacity">气泡透明度</string>
+    <string name="text_color">文字颜色</string>
+    <string name="text_color_auto">自动</string>
+    <string name="text_color_light">浅色</string>
+    <string name="text_color_dark">深色</string>
+    <string name="text_color_custom">自定义</string>
+    <string name="select_image">选择图片</string>
+    <string name="theme_applied">主题已应用</string>
+    <string name="background_uploaded">背景已上传</string>
+    <string name="background_upload_failed">背景上传失败</string>
+    
+    <!-- 头像相关 -->
+    <string name="change_avatar">更换头像</string>
+    <string name="avatar_updated">头像已更新</string>
+    <string name="avatar_upload_failed">头像上传失败</string>
+    <string name="select_avatar_source">选择头像来源</string>
+    <string name="from_gallery">从相册选择</string>
+    <string name="from_camera">拍照</string>
+    
+    <!-- 群聊相关 -->
+    <string name="create_group">创建群聊</string>
+    <string name="group_chat">群聊</string>
+    <string name="group_name">群聊名称</string>
+    <string name="select_members">选择成员</string>
+    <string name="selected_count">已选择：%1$d/%2$d</string>
+    <string name="group_created">群聊已创建</string>
+    <string name="group_deleted">群聊已删除</string>
+    <string name="member_added">%1$s 加入了群聊</string>
+    <string name="member_removed">%1$s 退出了群聊</string>
+    <string name="group_full">群聊已满员</string>
+    <string name="group_empty">请至少选择一个成员</string>
+    <string name="manage_members">管理成员</string>
+    <string name="delete_group">解散群聊</string>
+    <string name="delete_group_confirm">确定要解散这个群聊吗？\n所有聊天记录将被删除。</string>
+    <string name="member_count">%1$d人</string>
+</resources>

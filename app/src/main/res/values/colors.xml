@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 主色调 - 温暖的紫粉色系 -->
+    <color name="primary">#9C7CF4</color>
+    <color name="primary_variant">#7B5CD6</color>
+    <color name="primary_light">#C4A8FF</color>
+    
+    <!-- 次要色 -->
+    <color name="secondary">#F4A7C7</color>
+    <color name="secondary_variant">#E08AAB</color>
+    
+    <!-- 背景色 - 渐变背景 -->
+    <color name="background">#F0EDFF</color>
+    <color name="background_gradient_start">#F8F6FF</color>
+    <color name="background_gradient_end">#E8E4F8</color>
+    <color name="surface">#FAFAFA</color>
+    <color name="surface_variant">#F0EDFF</color>
+    
+    <!-- 毛玻璃效果色 - 增强透明度 -->
+    <color name="glass_background">#CCFFFFFF</color>
+    <color name="glass_background_dark">#E6FFFFFF</color>
+    <color name="glass_border">#4DFFFFFF</color>
+    <color name="glass_shadow">#1A000000</color>
+    
+    <!-- 文字色 -->
+    <color name="text_primary">#2D2D3A</color>
+    <color name="text_secondary">#6B6B7B</color>
+    <color name="text_hint">#9E9EAE</color>
+    <color name="text_on_primary">#FFFFFF</color>
+    
+    <!-- 聊天气泡 -->
+    <color name="bubble_user">#9C7CF4</color>
+    <color name="bubble_ai">#F5F5F5</color>
+    <color name="bubble_ai_border">#E8E4F4</color>
+    
+    <!-- 状态色 -->
+    <color name="online">#4CAF50</color>
+    <color name="typing">#FF9800</color>
+    <color name="error">#F44336</color>
+    <color name="unread_badge">#FF5252</color>
+    
+    <!-- 情绪色 -->
+    <color name="emotion_happy">#FFD54F</color>
+    <color name="emotion_sad">#90CAF9</color>
+    <color name="emotion_angry">#EF5350</color>
+    <color name="emotion_shy">#F8BBD9</color>
+    <color name="emotion_neutral">#B0BEC5</color>
+    
+    <!-- 分隔线 -->
+    <color name="divider">#E0E0E0</color>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 樱花主题背景 -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient
+        android:angle="135"
+        android:startColor="#FFE5EC"
+        android:centerColor="#FFC2D4"
+        android:endColor="#FFB3C6"
+        android:type="linear" />
+</shape>

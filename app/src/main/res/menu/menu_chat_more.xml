@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_view_diary"
+        android:title="📔 查看TA的日记"
+        android:icon="@drawable/ic_diary" />
+    
+    <item
+        android:id="@+id/action_edit_character"
+        android:title="✏️ 编辑角色"
+        android:icon="@drawable/ic_settings" />
+</menu>

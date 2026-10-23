@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_view_diary"
+        android:icon="@drawable/ic_diary"
+        android:title="📔 查看TA的日记" />
+    <item
+        android:id="@+id/action_theme_settings"
+        android:icon="@drawable/ic_theme"
+        android:title="@string/chat_theme" />
+    <item
+        android:id="@+id/action_clear_chat"
+        android:icon="@drawable/ic_delete"
+        android:title="@string/clear_chat_history" />
+</menu>

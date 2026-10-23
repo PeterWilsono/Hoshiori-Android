@@ -1,0 +1,92 @@
+# Android 项目通用忽略规则
+
+# Gradle 文件
+.gradle/
+build/
+*/build/
+local.properties
+
+# IDE 配置文件
+.idea/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+
+# 编译输出
+*.apk
+*.ap_
+*.aab
+
+# 保留 apk/ 目录下供用户下载的发布包
+!apk/
+!apk/*.apk
+
+# 打包文件
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# 虚拟机崩溃日志
+hs_err_pid*
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# 敏感配置文件
+local.properties
+secrets.properties
+api_keys.properties
+
+# 日志文件
+*.log
+
+# 备份文件
+*.backup
+*.bak
+*~
+
+# 临时文件
+*.tmp
+*.swp
+*.swo
+
+# 文档文件 (根据需要调整)
+*.md.bak
+CHANGELOG_*.md
+✅*.md
+🎯*.md
+📊*.md
+📖*.md
+📝*.md
+📱*.md
+🔍*.md
+🔒*.md
+🔧*.md
+🚀*.md
+🧪*.md
+🎉*.md
+🎨*.md
+💰*.md
+
+# 示例文件
+*示例*.kt
+*示例*.md
+
+# 测试文件
+*.test
+*.spec
+
+# Windows 文件
+desktop.ini
+ehthumbs.db
+
+# macOS 文件
+.DS_Store
+.AppleDouble
+.LSOverride
